@@ -6,7 +6,6 @@ Tools
 C#, HTML, CSS, React, SQL Server, SSMS, Visual Studio Code, IntelliJ IDEA
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my own database
 - 🌱 I’m currently learning how to create APIs for file handling and inegration with a database
