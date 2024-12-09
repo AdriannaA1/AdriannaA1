@@ -6,8 +6,6 @@ Tools
 C#, HTML, CSS, React, SQL Server, SSMS, Visual Studio Code, IntelliJ IDEA
 
 
-**AdriannaA1/AdriannaA1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my own database
@@ -15,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ada ambroziak (Facebook, Instagram)
 - 😄 Pronouns: She/Her
 
--->
